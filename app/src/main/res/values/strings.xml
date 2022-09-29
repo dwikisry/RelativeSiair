@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Relative Siair</string>
+    <string-array name="array_nama">
+        <item>Okky Boy</item>
+        <item>Windah</item>
+        <item>Bocil Kematian</item>
+        <item>Mega Chan</item>
+        <item>Joko Kun</item>
+        <item>Garox</item>
+    </string-array>
 </resources>
